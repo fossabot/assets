@@ -1,6 +1,7 @@
 # Trust Wallet Assets Info
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fljkt7334%2Fassets.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fljkt7334%2Fassets?ref=badge_shield)
 
 ## Overview
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
@@ -81,3 +82,7 @@ Trust Wallet team allows anyone to submit new assets to this repository. However
 
 Trust Wallet team will reject projects that are deemed as scam or fraudulent after careful review.
 Trust Wallet team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fljkt7334%2Fassets.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fljkt7334%2Fassets?ref=badge_large)
